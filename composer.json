@@ -1,15 +1,15 @@
 {
-    "name": "",
+    "name": "omar/tp-php-poo",
     "authors": [
         {
-            "name": "",
-            "email": ""
+            "name": "Omar ATARI",
+            "email": "o.atari@ecole-ipssi.net"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "YourNamespace\\": "src/Application"
+            "Meetings\\": "."
         }
     },
     "require-dev": {
